@@ -1,4 +1,10 @@
 <Solution>
+  <Project Path="Ex100/Ex100.csproj" Id="a6f1ff73-ccb7-41d9-bfdb-4ce36427a8d3" />
+  <Project Path="Ex101/Ex101.csproj" Id="98df7260-ef12-44a1-a8ab-3e81879890cd" />
+  <Project Path="Ex102/Ex102.csproj" Id="a4b40654-1e22-4a95-a2b8-7353f3f28bdf" />
+  <Project Path="Ex103/Ex103.csproj" Id="84334405-5379-4c2f-90ba-df02aea627ab" />
+  <Project Path="Ex104/Ex104.csproj" Id="2bbdc0ab-ab87-4b47-ad1f-41727f74a242" />
+  <Project Path="Ex105/Ex105.csproj" Id="9610e6a7-422a-4c0c-81e6-dc46affc2bcb" />
   <Project Path="Ex88/Ex88.csproj" />
   <Project Path="Ex89/Ex89.csproj" />
   <Project Path="Ex90/Ex90.csproj" />
@@ -7,4 +13,8 @@
   <Project Path="Ex93/Ex93.csproj" />
   <Project Path="Ex94/Ex94.csproj" />
   <Project Path="Ex95/Ex95.csproj" />
+  <Project Path="Ex96/Ex96.csproj" Id="930d18d6-b246-4321-b4db-de30aa86188c" />
+  <Project Path="Ex97/Ex97.csproj" Id="27f88493-d88a-4d6a-be67-bfb5c6e0b6d3" />
+  <Project Path="Ex98/Ex98.csproj" Id="3e584d0f-fd88-4c07-b9f5-3fb3c7700e44" />
+  <Project Path="Ex99/Ex99.csproj" Id="16f37bde-7207-4bf6-aa59-f410d997b594" />
 </Solution>

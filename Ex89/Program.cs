@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Hello, World!");
-int acm = 0;
+int soma = 0;
 int num = 0;
 int contNegativo = 0;
 
@@ -10,17 +10,17 @@ for(int i = 1;i <= 5; i++)
     num = int.Parse(Console.ReadLine());
     if(num >= 0)
     {
-        acm = acm + num;
+        soma = soma + num; //aculadora
     }
     else
     {
-        contNegativo++;
+        contNegativo++; //Contando de 1 em 1
     }
     
 }
 
-Console.WriteLine($"A soma dos numeros positivos {acm}");
-Console.WriteLine($"A soma dos numeros negativos {contNegativo}");
+Console.WriteLine($"A soma dos numeros positivos {soma}");
+Console.WriteLine($"A quantidade de numeros negativos {contNegativo}");
 
 
 
